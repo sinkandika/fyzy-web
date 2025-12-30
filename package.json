@@ -16,9 +16,9 @@
     "antd": "^6.0.0",
     "firebase": "^12.5.0",
     "html2pdf.js": "^0.12.1",
-    "next": "^14.2.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-hot-toast": "^2.6.0",
     "react-to-print": "^3.2.0",
     "recharts": "^3.6.0"
